@@ -30,5 +30,5 @@ An end-to-end Data Analytics project using Python, MySQL, SQL, Power BI, and Str
 
 ### 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/vanshika-jain-17007128a
 - GitHub: https://github.com/jainvanshika21
