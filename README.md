@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Vanshika Jain
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vanshika%20Jain&fontSize=50&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20MCA%20Student&descAlignY=55&descSize=20" />
 </p>
