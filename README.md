@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vanshika%20Jain&fontSize=50&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20MCA%20Student&descAlignY=55&descSize=20" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Data+into+Meaningful+Insights+%F0%9F%94%8D;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Data-Driven+Projects+%F0%9F%9A%80" />
-</p>
-
 ## 👩‍💻 About Me
 
 I'm an **MCA student** and an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and building data-driven solutions.
@@ -57,7 +53,7 @@ An end-to-end **Data Analytics project** built using Python, SQL, Power BI, and 
 
 🔗 **[View Project](https://github.com/jainvanshika21/Retail-Sales-Analytics)**
 
-🌐 **Live Streamlit Dashboard:** *Coming Soon*
+🌐 **[Live Streamlit Dashboard](https://retail-sales-analytics-pzliszurmrwxhiwtpxs6ow.streamlit.app/)**
 
 ---
 
