@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Vanshika Jain
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vanshika%20Jain&fontSize=50&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20MCA%20Student&descAlignY=55&descSize=20" />
 </p>
@@ -14,9 +16,9 @@ I'm an **MCA student** and an aspiring **Data Analyst** passionate about transfo
 
 🔍 I'm interested in **Data Analytics, Business Intelligence, Data Visualization, and Machine Learning**.
 
-📊 I enjoy working with **Python, SQL, Power BI, and Excel** to analyze data, discover trends, understand business performance, and create interactive dashboards.
+📊 I enjoy working with data using **Python, SQL, Power BI, and Excel** to discover trends, analyze business performance, and create interactive dashboards.
 
-🚀 I'm currently building practical projects to strengthen my analytics skills and develop a strong portfolio for a career in **Data Analytics**.
+🚀 Currently building projects to strengthen my skills and create a strong portfolio for a career in **Data Analytics**.
 
 ---
 
@@ -63,19 +65,9 @@ An end-to-end **Data Analytics project** built using Python, SQL, Power BI, and 
 
 ---
 
-### 🏥 Hospital Emergency Room Analytics
-
-An interactive **Data Analytics and Business Intelligence project** focused on analyzing emergency room operations, patient trends, wait times, admission status, and departmental performance.
-
-🔹 **Tools:** Python | Pandas | Excel | Power BI
-
-🔗 **[View Project](#)**
-
----
-
 ### 🕳️ Intelligent Road Pothole Detection
 
-A computer vision project using **YOLOv8, OpenCV, and Streamlit** to detect potholes in road videos and provide visual detection results.
+A computer vision project that uses **YOLOv8, OpenCV, and Streamlit** to detect potholes in road videos and provide visual detection results.
 
 🔹 **Tools:** Python | YOLOv8 | OpenCV | Streamlit
 
@@ -85,13 +77,13 @@ A computer vision project using **YOLOv8, OpenCV, and Streamlit** to detect poth
 
 ---
 
-## 📚 What I'm Working On
+## 📚 Currently Learning
 
-* 📊 Building interactive Power BI dashboards
-* 🧮 Improving SQL skills for data analysis
-* 🐍 Strengthening Python and Pandas for analytics
-* 📈 Learning advanced data visualization techniques
-* 🤖 Exploring Machine Learning fundamentals
+* 📊 Advanced Data Analytics
+* 🧮 SQL for Data Analysis
+* 📈 Power BI & Dashboard Development
+* 🐍 Python for Data Analytics
+* 🤖 Machine Learning Fundamentals
 
 ---
 
