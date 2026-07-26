@@ -57,7 +57,7 @@ An end-to-end **Data Analytics project** built using Python, SQL, Power BI, and 
 
 🔗 **[View Project](https://github.com/jainvanshika21/Retail-Sales-Analytics)**
 
-🌐 **[Live Streamlit Dashboard](#)**
+🌐 **Live Streamlit Dashboard:** *Coming Soon*
 
 ---
 
@@ -69,7 +69,7 @@ A computer vision project that uses **YOLOv8, OpenCV, and Streamlit** to detect 
 
 🔗 **[View Project](https://github.com/jainvanshika21/Intelligent-Road-Pothole-Detection)**
 
-🌐 **[Live Demo](#)**
+🌐 **[Live Demo](https://jainvanshika21-intelligent-road-pothole-appstreamlit-app-2mc2qo.streamlit.app/)**
 
 ---
 
