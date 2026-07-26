@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst+📊;Turning+Data+into+Meaningful+Insights+🔍;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Data-Driven+Projects+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Turning+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Data-Driven+Projects" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
